@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'ooferdoodle',
+	name: 'ooferdoodles',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
